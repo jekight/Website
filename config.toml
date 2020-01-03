@@ -2,7 +2,7 @@
 baseurl = "/"
 relativeurls = false
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Jeremy Kight"
 theme = "syna"
 enableGitInfo = true
 version = "0.16.0"
