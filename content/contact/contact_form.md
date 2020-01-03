@@ -2,11 +2,11 @@
 fragment = "contact"
 #disabled = true
 date = "2017-09-10"
-weight = 1100
-background = "secondary"
+weight = 20
+background = "light"
 form_name = "defaultContact"
 
-title = "Contact Me!"
+title = "Contact Form"
 #subtitle  = "Please leave your name and email and I will get back to you! "
 
 # PostURL can be used with backends such as mailout from caddy

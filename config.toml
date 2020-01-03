@@ -80,6 +80,11 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Projects"
   weight = 30
 
+[[menu.main]]
+  url = "/contact"
+  name = "Contact Me"
+  weight = 40
+
 #[[menu.footer]]
   #url = "#"
   #name = "jeremy.w.kight@gmail.com"
