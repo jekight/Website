@@ -42,7 +42,7 @@ subtitle = "Below you can find the various ways to reach out to me. I have suppl
 
   [[rows.values]]
     icon = "fab fa-linkedin-in"
-    url = "#"
+    url = "https://www.linkedin.com/in/jeremy-kight-3211b419b/"
     center = true
 
   #[[rows.values]]
@@ -91,7 +91,7 @@ subtitle = "Below you can find the various ways to reach out to me. I have suppl
     
   [[rows.values]]
     icon = "fab fa-facebook-f"
-    url = "https://github.com/jekight"
+    url = "https://www.facebook.com/jeremy.kight"
     center = true
     
 [[rows]]
