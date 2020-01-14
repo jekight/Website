@@ -6,7 +6,7 @@ title = "Jeremy Kight"
 theme = "syna"
 enableGitInfo = true
 version = "0.16.0"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"] 
 
 # Google Analytics tracking
 googleAnalytics = ""
@@ -24,8 +24,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Jeremy Kight Website"
+  description = "Website"
 
   [params.style]
     background = "light"
@@ -33,10 +33,10 @@ lastmod = ["lastmod", ":git", "date"]
   # Theme customizations
   # Assets relative to 'static/'
   [params.custom]
-    favicon = "favicon.ico"
+    favicon = "name_logo.png"
     favicon_ico_sizes = "16x16 32x32"
-    favicon_png = "favicon.png"
-    favicon_svg = "favicon.svg"
+    favicon_png = "name_logo.png"
+    favicon_svg = "name_logo.png"
 
   # Piwik tracking
   [params.analytics.piwik]
