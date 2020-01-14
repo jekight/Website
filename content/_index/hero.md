@@ -12,11 +12,13 @@ title = "My Website"
 
 [header]
   image = "header.jpg"
+  width = "500px" # optional - will default to image width
+  height = "200px" # optional - will default to image height
 
 [asset]
   image = "name_logo.png"
   #width = "400px" # optional - will default to image width
-  #height = "150px" # optional - will default to image height
+  #height = "200px" # optional - will default to image height
 
 [[buttons]]
   text = "Resume"
