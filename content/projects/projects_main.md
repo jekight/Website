@@ -21,9 +21,9 @@ title = "My Personal Projects"
     text = "Data Visualizations"
     center = true
 
-  #[[header.values]]
-    #text = "Header 2"
-    #center = true
+  [[header.values]]
+    text = "Data Analysis"
+    center = true
 
   #[[header.values]]
     #text = "Header 3"
@@ -44,8 +44,11 @@ title = "My Personal Projects"
     color = "success"
     center = true
 
-  #[[rows.values]]
-    #text = "Value"
+  [[rows.values]]
+    button = "NYC Service Calls"
+    url = "/nyc_service_calls"
+    color = "success"
+    center = true
 
   #[[rows.values]]
     #text = "Value"
