@@ -25,8 +25,9 @@ title = "My Personal Projects"
     text = "Data Analysis"
     center = true
 
-  #[[header.values]]
-    #text = "Header 3"
+  [[header.values]]
+    text = "Machine Learning"
+    center = true
 
   #[[header.values]]
     #text = "Header 4"
@@ -50,8 +51,11 @@ title = "My Personal Projects"
     color = "success"
     center = true
 
-  #[[rows.values]]
-    #text = "Value"
+  [[rows.values]]
+    button = "Advertising Budgets"
+    url = "/Advertising"
+    color = "success"
+    center = true
 
   #[[rows.values]]
     #text = "Value"
