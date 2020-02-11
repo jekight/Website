@@ -48,15 +48,6 @@ title = "My Personal Projects"
     color = "success"
     center = true
 
-  
-
-[[rows]]
-  [[rows.values]]
-    button = "Socio Economics"
-    url = "/socioeconomics"
-    color = "success"
-    center = true
-
   [[rows.values]]
     button = "Sector Volatility"
     url = "/Sector_Volatility"
