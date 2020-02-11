@@ -71,15 +71,24 @@ title = "My Personal Projects"
     #url = "#"
     #color = "danger"
 
-#[[rows]]
-  #[[rows.values]]
-    #header = "Row 2"
+[[rows]]
+  [[rows.values]]
+    button = ""
+    url = ""
+    color = ""
+    center = true
 
-  #[[rows.values]]
-    #text = "Value"
+  [[rows.values]]
+    button = "Sector Volatility"
+    url = "/Sector_Volatility"
+    color = "success"
+    center = true
 
-  #[[rows.values]]
-    #text = "Long Value"
+  [[rows.values]]
+    button = ""
+    url = ""
+    color = ""
+    center = true
 
   #[[rows.values]]
     #text = "Long Value"
