@@ -29,15 +29,6 @@ title = "My Personal Projects"
     text = "Machine Learning"
     center = true
 
-  #[[header.values]]
-    #text = "Header 4"
-
-  #[[header.values]]
-    #text = "Header 5"
-
-  #[[header.values]]
-    #text = "Header 6"
-
 [[rows]]
   [[rows.values]]
     button = "Socio Economics"
@@ -57,23 +48,14 @@ title = "My Personal Projects"
     color = "success"
     center = true
 
-  #[[rows.values]]
-    #text = "Value"
-
-  #[[rows.values]]
-    #button = "Button"
-    #url = "#"
-    #color = "success"
-    #center = true
-
-  #[[rows.values]]
-    #button = "Long Button"
-    #url = "#"
-    #color = "danger"
+  
 
 [[rows]]
   [[rows.values]]
-    text = ""
+    button = "Socio Economics"
+    url = "/socioeconomics"
+    color = "success"
+    center = true
 
   [[rows.values]]
     button = "Sector Volatility"
