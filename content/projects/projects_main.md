@@ -73,10 +73,7 @@ title = "My Personal Projects"
 
 [[rows]]
   [[rows.values]]
-    button = ""
-    url = ""
-    color = ""
-    center = true
+    text = ""
 
   [[rows.values]]
     button = "Sector Volatility"
@@ -85,10 +82,7 @@ title = "My Personal Projects"
     center = true
 
   [[rows.values]]
-    button = ""
-    url = ""
-    color = ""
-    center = true
+    text = ""
 
   #[[rows.values]]
     #text = "Long Value"
