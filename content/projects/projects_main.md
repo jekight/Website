@@ -50,7 +50,7 @@ title = "My Personal Projects"
 
 [[rows]]
   [[rows.values]]
-    header = "Row 2"
+    text = ""
     
   [[rows.values]]
     button = "Sector Volatility"
