@@ -50,7 +50,10 @@ title = "My Personal Projects"
 
 [[rows]]
   [[rows.values]]
-    text = ""
+    button = "March Madness Visuals"
+    url = "/MarchMadnessVisuals"
+    color = "success"
+    center = true
     
   [[rows.values]]
     button = "Sector Volatility"
