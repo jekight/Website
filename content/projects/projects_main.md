@@ -62,7 +62,10 @@ title = "My Personal Projects"
     center = true
 
   [[rows.values]]
-    text = ""
+    button = "March Madness Predictions"
+    url = "/MarchMadnessVisuals"
+    color = "success"
+    center = true
 
   #[[rows.values]]
     #text = "Long Value"
