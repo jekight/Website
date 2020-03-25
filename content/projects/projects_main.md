@@ -63,7 +63,7 @@ title = "My Personal Projects"
 
   [[rows.values]]
     button = "March Madness Predictions"
-    url = "/MarchMadnessVisuals"
+    url = "/MarchMadnessPredictions"
     color = "success"
     center = true
 
