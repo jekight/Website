@@ -36,7 +36,7 @@ lastmod = ["lastmod", ":git", "date"]
     favicon = "name_logo.png"
     favicon_ico_sizes = "16x16 32x32"
     favicon_png = "name_logo.png"
-    favicon_svg = "name_logo.png"
+    favicon_svg = "Kigh Logo SVG.svg"
 
   # Piwik tracking
   [params.analytics.piwik]
