@@ -11,14 +11,14 @@ title = "My Website"
 #subtitle = "Welcome"
 
 [header]
-  image = "Kight_Logo_update.png"
-  width = "500px" # optional - will default to image width
-  height = "200px" # optional - will default to image height
+  image = "header.jpg"
+  #width = "500px" # optional - will default to image width
+  #height = "200px" # optional - will default to image height
 
 [asset]
   image = "Kight_Logo.svg"
-  width = "400px" # optional - will default to image width
-  height = "200px" # optional - will default to image height
+  width = "300px" # optional - will default to image width
+  height = "150px" # optional - will default to image height
 
 [[buttons]]
   text = "Resume"
