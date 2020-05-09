@@ -16,9 +16,9 @@ title = "My Website"
   #height = "200px" # optional - will default to image height
 
 [asset]
-  image = "Kight_Logo.svg"
-  width = "300px" # optional - will default to image width
-  height = "150px" # optional - will default to image height
+  image = "Kight_Logo_update.png"
+  width = "400px" # optional - will default to image width
+  height = "200px" # optional - will default to image height
 
 [[buttons]]
   text = "Resume"
