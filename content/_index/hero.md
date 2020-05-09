@@ -16,7 +16,7 @@ title = "My Website"
   height = "200px" # optional - will default to image height
 
 [asset]
-  image = "Kight Logo SVG.svg"
+  image = "Kight_Logo.svg"
   #width = "400px" # optional - will default to image width
   #height = "200px" # optional - will default to image height
 
