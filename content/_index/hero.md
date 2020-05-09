@@ -11,7 +11,7 @@ title = "My Website"
 #subtitle = "Welcome"
 
 [header]
-  image = "header.jpg"
+  image = "Kight_Logo_update.png"
   width = "500px" # optional - will default to image width
   height = "200px" # optional - will default to image height
 
