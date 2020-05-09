@@ -33,9 +33,9 @@ lastmod = ["lastmod", ":git", "date"]
   # Theme customizations
   # Assets relative to 'static/'
   [params.custom]
-    favicon = "name_logo.png"
+    favicon = "Kight_Logo_update.png"
     favicon_ico_sizes = "16x16 32x32"
-    favicon_png = "name_logo.png"
+    favicon_png = "Kight_Logo_update.png"
     favicon_svg = "Kigh Logo SVG.svg"
 
   # Piwik tracking

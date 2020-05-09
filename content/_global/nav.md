@@ -14,6 +14,6 @@ sticky = true
 
 # Branding options
 [asset]
-  image = "name_logo.png"
+  image = "Kight_Logo_update.png"
   #text = "Syna"
 +++
