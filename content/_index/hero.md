@@ -22,7 +22,7 @@ title = "My Website"
 
 [[buttons]]
   text = "Resume"
-  url = "/images/resume.pdf/"
+  url = "/images/JeremyKight_Resume_2020.pdf/"
   color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
