@@ -1,8 +1,8 @@
 +++
 fragment = "item"
-#disabled = true
+#disabled = false
 date = "2017-10-05"
-weight = 100
+weight = 250
 align = "right"
 #background = ""
 
